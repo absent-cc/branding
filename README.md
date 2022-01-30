@@ -1,5 +1,5 @@
 # Branding
-The official branding repo for abSENT.
+The official branding sheet for abSENT.
 
 # Fonts
 - [Inter Display](https://github.com/rsms/inter/releases/tag/display-beta-1)
