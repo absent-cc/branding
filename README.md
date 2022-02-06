@@ -1,7 +1,10 @@
+![abSENT Github Banner](https://github.com/absent-cc/branding/blob/main/banner.png)
+
 # Branding
 The official branding sheet for abSENT.
 
 # Fonts
+
 - [Inter Display](https://github.com/rsms/inter/releases/tag/display-beta-1)
 
 # Colors
