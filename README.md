@@ -6,9 +6,13 @@ The official branding sheet for abSENT.
 
 # Colors
 
-| Purpose | Color | Hex |
-| ------- | ----- | --- |
-| Main Accent | Red | #EF4344 |
-| Secondary Accent | Orange | #FFF8038 |
-| Background | White | #FFFFFF |
-| Text | Black | #000000 |
+## Rebranding
+
+| Color | Name | Purpose | Hex |
+|:-----:|:----:|:--------|:---:|
+| Red | Plane Red | Primary color | #DA2123 |
+| Salmon | Tinge of Caviar  | Highlight | #EF4344 |
+| Orange | New Town Orange | Secondary color | #FF793F |
+| Yellow | Sunshine | #F9AF40 |
+| White | BG-White | #FFFFFF |
+| Black | Back-In-Black | #000000 |
