@@ -1,4 +1,4 @@
-![abSENT Github Banner](https://github.com/absent-cc/branding/blob/main/banner.png)
+![abSENT Github Banner](https://github.com/absent-cc/branding/blob/main/assets/banner.png)
 
 # Branding
 The official branding sheet for abSENT.
