@@ -1,7 +1,7 @@
 ![abSENT Github Banner](https://github.com/absent-cc/branding/blob/main/assets/banner.svg)
 
 # Branding
-The official branding sheet for abSENT.
+**The official branding sheet for abSENT.**
 
 # Fonts
 
