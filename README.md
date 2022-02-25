@@ -12,7 +12,7 @@
 | Color | Name | Purpose | Hex |
 |:-----:|:----:|:--------|:---:|
 | Red | Plane Red | Primary color | #DA2123 |
-| Orange | New Town Orange | Secondary color | #FF793F |
+| Orange | Absent Orange | Secondary color | #FF793F |
 | Salmon | Tinge of Caviar  | Highlight | #EF4344 |
 | Yellow | Sunshine | Highlight |#F9AF40 |
 | White | BG-White | Background |  #FFFFFF |
