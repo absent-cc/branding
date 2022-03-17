@@ -5,6 +5,7 @@
 
 # Fonts
 
+- [Inter](https://rsms.me/inter/)
 - [Inter Display](https://github.com/rsms/inter/releases/tag/display-beta-1)
 
 # Colors
